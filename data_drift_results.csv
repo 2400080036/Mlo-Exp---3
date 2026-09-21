@@ -1,0 +1,5 @@
+Feature,KS_Statistic,P_Value,Drift_Status
+age,0.3,0.33559098126008213,No Significant Drift
+tenure,0.0,1.0,No Significant Drift
+monthly_charges,0.4,0.08105771161340149,No Significant Drift
+support_calls,0.2,0.8319696107963263,No Significant Drift
